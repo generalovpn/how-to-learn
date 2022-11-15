@@ -5,7 +5,6 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-/* -------------- HEADER START ------------- */
 .header {
   height: 100vh;
   min-height: 600px;
@@ -73,9 +72,7 @@
   background-color: #2f80ed;
   z-index: 0;
 }
-/* ------------------- HEADER END --------------- */
 
-/* --------------- SECTION DESCRIPTION START ---------------- */
 .description {
   display: flex;
   justify-content: center;
@@ -119,9 +116,7 @@
   font-size: 24px;
   font-weight: 600;
 }
-/* --------------- SECTION DESCRIPTION END ---------------- */
 
-/* --------------- SECTION DIGITS START ---------------- */
 .digits {
   display: flex;
   flex-direction: column;
@@ -184,13 +179,11 @@
 .table__text_text_text {
   margin: 20px 0 0;
 }
-/* --------------- SECTION DIGITS END ---------------- */
 
-/* --------------- SECTION FEYNMAN START ---------------- */
 .feynman {
   display: flex;
   position: relative;
-  background-color: #f2f2f2;
+  background-color:#f2f2f2;
   flex-direction: column;
   height: 890px;
   color: #000000;
@@ -222,7 +215,7 @@
   font-size: 36px;
   font-weight: normal;
   text-decoration: none;
-  color: #2f80ed;
+  color:#2f80ed;
 }
 
 .feynman__img {
@@ -233,16 +226,14 @@
   bottom: 0;
   z-index: 0;
 }
-/* --------------- SECTION FEYNMAN END ---------------- */
 
-/* --------------- SECTION KAUFMAN START ---------------- */
 .kaufman {
   display: flex;
   position: relative;
   flex-direction: column;
   overflow: hidden; 
-  background-color: #1f1f1f;
-  color: #f2f2f2;
+  background-color:#1f1f1f;
+  color:#f2f2f2;
   padding-bottom: 90px;
 }
 
@@ -295,15 +286,13 @@
   height: 877px;
   z-index: 1;
 }
-/* --------------- SECTION KAUFMAN END ---------------- */
 
-/* --------------- FOOTER START ---------------- */
 .footer__columns {
   display: flex;
   position: relative;
   min-height: 350px;
-  background-color: #1f1f1f;
-  color: #f2f2f2;
+  background-color:#1f1f1f;
+  color:#f2f2f2;
   padding: 60px 0 40px 0;
   flex-basis: 711px;
   justify-content: right;
@@ -373,4 +362,3 @@
   margin: 0px;
   margin-right: 10px;
 }
-/* --------------- FOOTER END ---------------- */
