@@ -1,7 +1,7 @@
 @import url(../vendor/normalize/normalize.css);
-@import url(../vendor/root/root.css);
 
 @import url(../blocks/page/page.css);
+
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
