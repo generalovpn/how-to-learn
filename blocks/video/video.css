@@ -1,6 +1,6 @@
 .video {
-    display: flex;
-    flex-direction: column;
-    color: #000000;
-    padding-top: 100px;
+  display: flex;
+  flex-direction: column;
+  color: #000000;
+  padding-top: 100px;
 }
